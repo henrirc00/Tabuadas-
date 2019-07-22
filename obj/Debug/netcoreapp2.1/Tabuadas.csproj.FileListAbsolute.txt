@@ -1,0 +1,11 @@
+C:\Users\henrique.rcunha1\PrimeirosPassos\Tabuadas\obj\Debug\netcoreapp2.1\Tabuadas.csprojAssemblyReference.cache
+C:\Users\henrique.rcunha1\PrimeirosPassos\Tabuadas\obj\Debug\netcoreapp2.1\Tabuadas.csproj.CoreCompileInputs.cache
+C:\Users\henrique.rcunha1\PrimeirosPassos\Tabuadas\obj\Debug\netcoreapp2.1\Tabuadas.AssemblyInfoInputs.cache
+C:\Users\henrique.rcunha1\PrimeirosPassos\Tabuadas\obj\Debug\netcoreapp2.1\Tabuadas.AssemblyInfo.cs
+C:\Users\henrique.rcunha1\PrimeirosPassos\Tabuadas\bin\Debug\netcoreapp2.1\Tabuadas.deps.json
+C:\Users\henrique.rcunha1\PrimeirosPassos\Tabuadas\bin\Debug\netcoreapp2.1\Tabuadas.runtimeconfig.json
+C:\Users\henrique.rcunha1\PrimeirosPassos\Tabuadas\bin\Debug\netcoreapp2.1\Tabuadas.runtimeconfig.dev.json
+C:\Users\henrique.rcunha1\PrimeirosPassos\Tabuadas\bin\Debug\netcoreapp2.1\Tabuadas.dll
+C:\Users\henrique.rcunha1\PrimeirosPassos\Tabuadas\bin\Debug\netcoreapp2.1\Tabuadas.pdb
+C:\Users\henrique.rcunha1\PrimeirosPassos\Tabuadas\obj\Debug\netcoreapp2.1\Tabuadas.dll
+C:\Users\henrique.rcunha1\PrimeirosPassos\Tabuadas\obj\Debug\netcoreapp2.1\Tabuadas.pdb
